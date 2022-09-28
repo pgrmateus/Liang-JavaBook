@@ -20,7 +20,7 @@ public class exercicio7 {
 			}
 			System.out.println(i+"\t\t\t"+x+"\t\t\t"+sum);
 		}
-		System.out.printf("%nO Número PI é para %d interações é: %2f",numero_de_interacoes,(sum)*4);
+		System.out.printf("%nO Número PI calculado com %d interações é: %2f",numero_de_interacoes,(sum)*4);
 	}
 
 }
